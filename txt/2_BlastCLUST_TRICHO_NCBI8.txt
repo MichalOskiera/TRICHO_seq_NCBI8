@@ -24,7 +24,7 @@ ITS	T. velutinum	MO113	MO115	MO116	MO123	MO124	MO125	MO126	MO128	MO129	MO130	MO1
 ITS	T. velutinum	MO114	MO127																																		
 ITS	T. cerinum	MO117	MO118	MO140	MO141	MO142																															
 ITS	T. cerinum	MO119																																			
-ITS	T. aggressivum f. europeanum	MO120																																			
+ITS	T. aggressivum f. europaeum	MO120																																			
 ITS	T. pleuroticola	MO121	MO122																																		
 tef	T. atroviride	MO143	MO144	MO145	MO146	MO147	MO148	MO150	MO151	MO152	MO153	MO154	MO155	MO156	MO157	MO158	MO159	MO160	MO161	MO162																	
 tef	T. atroviride	MO149	MO163	MO164	MO165	MO166	MO167	MO168	MO169	MO170	MO171																										
@@ -62,7 +62,7 @@ tef	T. citrinoviride	MO256
 tef	T. velutinum	MO257	MO258	MO259	MO260																																
 tef	T. cerinum	MO261	MO262	MO263																																	
 tef	T. pleuroticola	MO266	MO267																																		
-tef	T. aggressivum f. europeanum	MO264	MO265																																		
+tef	T. aggressivum f. europaeum	MO264	MO265																																		
 chit42	T. atroviride	MO268	MO269	MO270	MO271	MO272	MO273	MO274	MO275	MO276	MO277	MO278	MO279	MO280	MO281	MO282	MO283	MO284	MO285	MO286	MO287	MO288	MO289	MO290	MO291	MO292	MO293	MO294	MO295	MO296	MO297	MO298	MO299	MO300	MO301	MO302	MO303
 chit42	T. atroviride	MO304	MO305	MO306																																	
 chit42	T. atroviride	MO307																																			
@@ -91,7 +91,7 @@ chit42	T. citrinoviride	MO381
 chit42	T. velutinum	MO382	MO383																																		
 chit42	T. velutinum	MO384	MO385																																		
 chit42	T. cerinum	MO386	MO387	MO388																																	
-chit42	T. aggressivum f. europeanum	MO389	MO390																																		
+chit42	T. aggressivum f. europaeum	MO389	MO390																																		
 chit42	T. pleuroticola	MO391	MO392																																		
 rpb2	T. atroviride	MO393	MO394	MO397	MO399	MO400	MO403	MO407	MO408	MO409	MO410	MO411	MO412	MO413	MO415	MO416	MO417	MO418	MO419	MO420	MO421	MO422	MO423	MO424	MO425												
 rpb2	T. atroviride	MO395	MO401	MO414																																	
@@ -128,5 +128,5 @@ rpb2	T. citrinoviride	MO506
 rpb2	T. velutinum	MO507	MO508	MO509	MO510																																
 rpb2	T. cerinum	MO511	MO512																																		
 rpb2	T. cerinum	MO513																																			
-rpb2	T. aggressivum f. europeanum	MO514	MO515																																		
+rpb2	T. aggressivum f. europaeum	MO514	MO515																																		
 rpb2	T. pleuroticola	MO516	MO517																																		
